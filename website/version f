@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Hello World, I'm Ryne!</title>
+		<link rel="stylesheet" href="assets/stylesheets/main.css">
+	</head>
+	<body>
+		
+		<header class="primary-header">
+						<h1 class= "title"></h1>
+				
+				<p> Hello World</p>
+			
+		
+			
+			<h3>Ryne Emory's Journey</h3>
+				
+				<p>You know what they say- life is a journey, not a destination. I created this website to show you a bit of my path so far.</p>
+				<p></p>
+			</section>
+	
+		</header>
+
+
+		<div class="about">
+
+		<h2>A little about me</h2>
+		
+		<p>This is the main body portion of the front page. What info to include here?</p>  
+		
+		
+		</div>
+		
+
+		<section class="container">
+			<h5>Lifestyle section?</h5>
+			<h3>My First Website</h3>
+			<p>This section is from the tutorial. Get rid of it or maybe use it for something else. Just chiling.</p>
+			</section>
+		<nav>
+				<a href="index.html">Back to the Top</a>
+			</nav>	
+	
+
+		<footer class=" primary-footer container group">
+			<small>&copy; Ryne's World</small>
+			<nav>
+			<a href="index.html">Home</a>
+			<a href="speakers.html">LinkedIn</a>
+			<a href="schedule.html">Facebook</a>
+			<a href="venue.html">Blog</a>
+			<a href="register.html">Website</a>
+			</nav>	
+		</footer>		
+	</body>
+	</html>
