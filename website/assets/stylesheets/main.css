@@ -82,7 +82,7 @@ header {
 .btn {
 	border-radius: 5px;
 	display: inline-block;
-	margin: 0;
+	margin: 50px;
 	height: 22px
 	line-height: 22px;
 	background: yellow;
@@ -146,6 +146,16 @@ h5 {
 	color: #8EFFE2;
 }
 
+p {
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.jokes {
+	text-align: center;
+	margin-top: 0
+}
+
 /*
   ========================================
   Links
@@ -167,6 +177,10 @@ a {
 .primary-footer a:hover {
 	color:#CDB96F;
 }
+
+nav {
+	padding-bottom: 50px;
+}
 /*
  ========================================
  Images
@@ -180,7 +194,8 @@ img .hometown {
 img {
 	height: 200px;
 	width: 300px;
-	padding: 15px;
+	padding: 5px;
+	margin-bottom: 50px;
 }
 .postcards {
 	display: inline;
